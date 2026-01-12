@@ -7,6 +7,7 @@ The "Shopping List Budget Matcher" is a solution designed to streamline the shop
 # 🛠️ Prototype Design 
     I designed the prototype for this project, focusing on a user-friendly interface and practical functionality. 
     The prototype demonstrates how embedded systems can enhance shopping experiences. 🖥️✨
+  ![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/PrototypeIsometricView.jpeg?raw=true)
   ![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/ShoppingCart%20prototype.jpeg?raw=true)    
   ![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/RasberryPCAD.jpeg?raw=true)
     
