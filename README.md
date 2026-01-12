@@ -12,4 +12,5 @@ The "Shopping List Budget Matcher" is a solution designed to streamline the shop
   ![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/ShoppingCart%20prototype.jpeg?raw=true)    
   ![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/RasberryPCAD.jpeg?raw=true)
 # Project
+![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/Project.jpeg?raw=true)
 
