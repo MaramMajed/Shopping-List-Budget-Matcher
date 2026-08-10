@@ -16,6 +16,3 @@ All 3D CAD designs shown above were personally designed by me ✨✨
 # Project
 ![image alt](https://github.com/MaramMajed/Shopping-List-Budget-Matcher/blob/main/Project.jpeg?raw=true)
 
-## 💛 Special Thanks
-
-A huge thank you to my amazing teammates — Mawahdah, Joud, Haneen, and Shaden. Working with them on this project was a wonderful experience, and this project wouldn't have come together without their hard work and collaboration.
