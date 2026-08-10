@@ -18,4 +18,4 @@ All 3D CAD designs shown above were personally designed by me ✨✨
 
 ## 💛 Special Thanks
 
-A huge thank you to my amazing teammates — Joud, Haneen, Shaden, and Mawahdah. Working with them on this project was a wonderful experience, and this project wouldn't have come together without their hard work and collaboration.
+A huge thank you to my amazing teammates — Mawahdah, Joud, Haneen, and Shaden. Working with them on this project was a wonderful experience, and this project wouldn't have come together without their hard work and collaboration.
